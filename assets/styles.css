@@ -56,7 +56,7 @@ nav .name {
     color: var(--light-pink);
     justify-content: center;
     align-items: flex-end;
-    background-image: url("C:/Users/alyss/bootcamp/my-portfolio-page/assets/images/bw-smoke-image.jpg");
+    background-image: url("/assets/images/bw-smoke-image.jpg");
     background-position: center;
     background-size: cover;
     height: 800px;
@@ -171,6 +171,7 @@ nav .name {
     width: 10rem;
     height: 2.5rem;
     font-size: 150%;
+    text-decoration: none;
 }
 
 
@@ -233,31 +234,31 @@ nav .name {
 
 /* background work pictures */
 .project-1 {
-    background-image: url("C:/Users/alyss/bootcamp/my-portfolio-page/assets/images/cherry-blossom.jpg");
+    background-image: url("/assets/images/cherry-blossom.jpg");
     background-position: center;
     border: solid 2px var(--light-pink);
 }
 
 .project-2 {
-    background-image: url("C:Users/alyss/bootcamp/my-portfolio-page/assets/images/clouds.jpg");
+    background-image: url("/assets/images/clouds.jpg");
     background-position: center;
     border: solid 2px var(--light-pink);
 }
 
 .project-3 {
-    background-image: url("C:/Users/alyss/bootcamp/my-portfolio-page/assets/images/dandelion.jpg");
+    background-image: url("/assets/images/dandelion.jpg");
     background-position: center;
     border: solid 2px var(--light-pink);
 }
 
 .project-4 {
-    background-image: url("C:/Users/alyss/bootcamp/my-portfolio-page/assets/images/fall-leaves.webp");
+    background-image: url("/assets/images/fall-leaves.webp");
     background-position: center;
     border: solid 2px var(--light-pink);
 }
 
 .project-5 {
-    background-image: url("C:/Users/alyss/bootcamp/my-portfolio-page/assets/images/waterfall.jpg");
+    background-image: url("/assets/images/waterfall.jpg");
     background-position: center;
     border: solid 2px var(--light-pink);
 }
