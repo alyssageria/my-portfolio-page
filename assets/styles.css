@@ -56,7 +56,7 @@ nav .name {
     color: var(--light-pink);
     justify-content: center;
     align-items: flex-end;
-    background-image: url("/assets/images/bw-smoke-image.jpg");
+    background-image: url("./images/bw-smoke-image.jpg");
     background-position: center;
     background-size: cover;
     height: 800px;
